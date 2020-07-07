@@ -392,3 +392,7 @@ C:\Users\Veysel\source\repos\BlogApp\BlogApp\obj\Debug\netcoreapp3.1\BlogApp.Vie
 C:\Users\Veysel\source\repos\BlogApp\BlogApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
 C:\Users\Veysel\source\repos\BlogApp\BlogApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Services.cshtml.g.cs
 C:\Users\Veysel\source\repos\BlogApp\BlogApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Page.cshtml.g.cs
+C:\Users\Veysel\source\repos\BlogApp\BlogApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Veysel\source\repos\BlogApp\BlogApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Veysel\source\repos\BlogApp\BlogApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Veysel\source\repos\BlogApp\BlogApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
